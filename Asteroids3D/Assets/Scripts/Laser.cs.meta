@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f1efc6c657033f541980cc2a9ca1bd27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PontoDoLaser: {instanceID: 0}
+  - LaserPrefab: {fileID: 4391851750770934284, guid: 473edfc61160ee84aa7795f25a2abc2e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
